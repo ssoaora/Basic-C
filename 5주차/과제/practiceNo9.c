@@ -10,7 +10,7 @@ int main(void)
     double midx = (x1 + x2) / 2;
     double midy = (y1 + y2) / 2;
 
-    printf("�߽���ǥ: (%.2lf %.2lf)", midx, midy);
+    printf("Áß½ÉÁÂÇ¥: (%.2lf %.2lf)", midx, midy);
 
     return 0;
 }
